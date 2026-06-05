@@ -1,0 +1,15 @@
+{
+  "name": "rincli",
+  "version": "0.1.0",
+  "description": "RinCLI - Local GGUF LLM Manager",
+  "main": "index.js",
+  "bin": {
+    "rincli": "./bin/rincli"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
