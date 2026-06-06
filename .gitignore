@@ -1,0 +1,11 @@
+/target/
+/node_modules/
+/dist/
+/build/
+.pnpm-store/
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.log
+.DS_Store
